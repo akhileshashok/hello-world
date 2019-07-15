@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i am akhilesh
+=======
+abcd
+>>>>>>> 2b844278c33863c4b7035fbe46257eba2dc2e395
